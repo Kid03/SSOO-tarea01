@@ -1,7 +1,7 @@
 # SSOO-tarea01
 Tarea para ramo de SIstemas Operativos, UV
 
-##Pertenece
+##Pertenece a
   Hector Delgado
   hector.delgado@alumnos.uv.cl
   
